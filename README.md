@@ -23,11 +23,12 @@ SO THAT the site is optimized for search engines
 <p>WHEN I view the title element</br>
 <p>THEN I find a concise, descriptive title</br>
 
-```
 
 ## screenshot
 
-(https://github.com/sokolroman/Horiseon-Refract/blob/main/Screen%20Shot%202022-07-27%20at%2009.07.44.png)
+![screenshot](https://github.com/sokolroman/Horiseon-Refract/blob/main/Screen%20Shot%202022-07-27%20at%2009.07.44.png)
+
+```
 
 ## deployable link
 
