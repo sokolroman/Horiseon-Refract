@@ -1,3 +1,5 @@
+/* setting the page sizing */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* creating a header for the page with a different colored background and font-family */
 
 header {
     padding: 20px;
@@ -50,6 +53,7 @@ a {
 p {
     font-size: 16px;
 }
+/* changing the container .hero and setting the css markup for the following containers */
 
 .hero {
     height: 800px;
