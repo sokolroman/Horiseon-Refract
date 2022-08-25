@@ -1,11 +1,9 @@
 # Horiseon-Webpage
 
 
-# 01 HTML, CSS, and Git: Code Refactor
-
 ##  Task
 
-refactor a codebase that follows accessibility standards
+I WANT TO refactor a codebase that follows accessibility standards
 SO THAT the site is optimized for search engines
 
 ## Criteria
